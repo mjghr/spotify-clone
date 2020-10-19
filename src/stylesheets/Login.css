@@ -1,0 +1,39 @@
+.login {
+  display: grid;
+  place-items: center;
+  background-color: black;
+  height: 100vh;
+  overflow-y: overlay;
+}
+
+.login > img {
+  width: 65vw;
+}
+
+.login > a {
+  margin-bottom: 50px;
+  padding: 20px;
+  background: #1db954;
+  text-decoration: none;
+  border-radius: 100px;
+  font-weight: 800;
+  color: white;
+}
+
+.copyRight {
+  display: flex;
+  align-items: center;
+  color: white;
+  font-size: 25px;
+}
+
+.copyRight > p {
+  margin-left: 10px !important;
+}
+
+@media (min-width: 804px) {
+  .login > img {
+    width: 517px;
+    height: 218px;
+  }
+}

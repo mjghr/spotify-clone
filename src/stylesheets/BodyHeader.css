@@ -1,0 +1,35 @@
+.header {
+  padding: 30px 30px 20px 30px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header__left {
+  flex: 0.6;
+  background-color: white;
+  color: grey;
+  border-radius: 50px;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  max-width: 288px;
+  min-width: 78px;
+}
+
+.header__searchInput {
+  border: none;
+  width: 100%;
+}
+
+.header__right {
+  display: flex;
+  align-items: center;
+}
+
+.header__username {
+  margin-left: 12px;
+}
+
+.header__left__searchIcon {
+  margin-right: 4px;
+}

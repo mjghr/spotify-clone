@@ -1,0 +1,39 @@
+.songRow__trackImg {
+  width: 45px;
+  height: 45px;
+}
+
+.songRow {
+  display: flex;
+  align-items: center;
+  z-index: 1;
+  color: white;
+  margin-left: 20px;
+  padding: 20px;
+}
+
+.songRow:hover {
+  opacity: 1;
+  background-color: #2b2c2f;
+  cursor: pointer;
+}
+
+/* #161820 */
+/* #2B2C2F */
+
+/* #3B425E */
+/* #1D212E */
+
+.songRow__info {
+  margin-left: 20px;
+}
+
+.songRow__info > h1 {
+  font-size: 16px;
+}
+
+.songRow__info > p {
+  font-size: 14px;
+  color: #b3b3b3;
+  margin-top: 5px;
+}
