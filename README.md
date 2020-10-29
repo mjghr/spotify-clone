@@ -9,7 +9,7 @@ this app uses spotify api to authenticate and get the user's informations;
 
 ## Credits
 
-#### All Credits Goes to Mohammad Javad Gharegozloo <a href='https://github.com/mjghr'>Original Repo</a>
+#### All Credits Goes to Mohammad Javad Gharegozloo <a href='https://github.com/mjghr' target="_blank">Original Repo</a>
 ## Available Scripts
 
 In the project directory, you can run:
