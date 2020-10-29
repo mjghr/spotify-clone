@@ -5,7 +5,7 @@
 this app uses spotify api to authenticate and get the user's informations;
  simply you can just login to the app with your spotify account, the app is not hardcoded and it will automatically pull all the data it needs from the user account.
  this app doesn't feature all the real Spotify functionalities but it does show your playlists, profile photo, username and your up to date discover weekly with it's list of tracks with all the information.
-## <a href="https://spotify-clone-7dfce.web.app/">LIVE DEMO</a>
+## <a href="https://spotify-clone-7dfce.web.app/" target="_blank">LIVE DEMO</a>
 
 ## Credits
 
